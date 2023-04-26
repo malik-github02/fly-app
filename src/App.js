@@ -1,25 +1,30 @@
-import logo from './logo.svg';
+import FirstNavbar from './components/FirstNavbar';
+import SecondNavbar from './components/SecondNavbar';
+import LandingPage from './components/LandingPage';
+import ClassOption from './components/ClassOption';
+import PlanTravel from './components/PlanTravel';
+import Features from './components/Features';
+import Captain from './components/Captain';
+import Travelers from './components/Travelers';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
 import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+       return (
+              <div className="App">
+                     <FirstNavbar />
+                     <SecondNavbar />
+                     <LandingPage />
+                     <ClassOption />
+                     <PlanTravel />
+                     <Features />
+                     <Captain />
+                     <Travelers />
+                     <Contact />
+                     <Footer />
+              </div>
+       );
 }
 
 export default App;
