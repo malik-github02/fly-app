@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fly-app/static/css/main.5b13c893.css",
+    "main.js": "/fly-app/static/js/main.e0b36f95.js",
+    "static/media/sunset-153976.mp4": "/fly-app/static/media/sunset-153976.074d095b66899fb6d7cc.mp4",
+    "static/media/paris.jpg": "/fly-app/static/media/paris.b22055e5e9869675b3af.jpg",
+    "static/media/newYork.jpg": "/fly-app/static/media/newYork.6831cc1eedc1ff513185.jpg",
+    "static/media/qatar.jpg": "/fly-app/static/media/qatar.bf35d1d1e8a62419f8cd.jpg",
+    "static/media/captain-2.jpg": "/fly-app/static/media/captain-2.21e70917ef6c683ba0ad.jpg",
+    "static/media/captain-1.jpg": "/fly-app/static/media/captain-1.27554b5990ef4ddbfe96.jpg",
+    "static/media/pngwing.com.png": "/fly-app/static/media/pngwing.com.4ca96b201e5027099be0.png",
+    "static/media/sky-2.jpg": "/fly-app/static/media/sky-2.474b95f2037401fead39.jpg",
+    "static/media/burj-alarab.jpg": "/fly-app/static/media/burj-alarab.22f827cd0462fd207531.jpg",
+    "static/media/sky-1.jpg": "/fly-app/static/media/sky-1.56707d9a8241406a2dff.jpg",
+    "static/media/sky-3.jpg": "/fly-app/static/media/sky-3.605ce188c35e53ba1bde.jpg",
+    "static/media/avatar03.png": "/fly-app/static/media/avatar03.5cde1a1b7dffd9b9f83a.png",
+    "static/media/avatar04.png": "/fly-app/static/media/avatar04.cc9c983a8f12aab07b5f.png",
+    "index.html": "/fly-app/index.html",
+    "main.5b13c893.css.map": "/fly-app/static/css/main.5b13c893.css.map",
+    "main.e0b36f95.js.map": "/fly-app/static/js/main.e0b36f95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b13c893.css",
+    "static/js/main.e0b36f95.js"
+  ]
+}
